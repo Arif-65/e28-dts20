@@ -29,7 +29,11 @@
     padding: 0 10px;
     font-size: 14px;
   }
-  
+	
+  .right-footer{
+    float: right;
+  }
+	
   .right-footer li{
     font-size: 14px;
   }
