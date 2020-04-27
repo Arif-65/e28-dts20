@@ -1,10 +1,5 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .lesson {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-  
   .top-wrapper h1 {
     font-size: 32px;
   }
@@ -12,24 +7,29 @@
   .heading h2 {
     font-size: 20px;
   }
+  
+  .members{
+    height: 1800px;
+  }
+
+  .two-columns{
+    width: 500px;
+  }
 }
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-  .lesson {
-    width: 100%;
-  }
-  
   footer {
     text-align: center;
+    height: 170px;
   }
   
   .btn {
     width: 100%;
   }
   
-  .facebook {
-    margin-bottom: 10px;
+  input,textarea,select {
+	width:100%;
   }
   
   .top-wrapper {
