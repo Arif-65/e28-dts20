@@ -21,7 +21,17 @@
 @media all and (max-width: 670px) {
   footer {
     text-align: center;
-    height: 170px;
+    height: 70px;
+  }
+  
+  .left-footer p{
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+  }
+  
+  .right-footer li{
+    font-size: 14px;
   }
   
   .btn {
