@@ -20,7 +20,7 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   footer {
-    text-align: center;
+    /*text-align: center;*/
     height: 70px;
   }
   
